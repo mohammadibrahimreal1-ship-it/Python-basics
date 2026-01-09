@@ -1,0 +1,25 @@
+Definition of Python --->
+
+Python is a high-level, general-purpose programming language known for its simple syntax and readability. It allows developers to write code quickly and efficiently, making it popular for beginners and professionals.
+
+
+Uses of Python in Data Science --->
+
+Python is widely used in the Data Science field for:
+Data Collection – reading data from files, APIs, databases, websites, etc.
+Data Cleaning & Preprocessing – handling missing values, formatting data, removing errors.
+Data Analysis – performing statistical analysis and summarizing data.
+Data Visualization – creating graphs and charts (using Matplotlib, Seaborn, Plotly).
+Machine Learning – building predictive models using libraries like Scikit-learn, TensorFlow, PyTorch.
+Automation – automating repetitive tasks like data extraction or reporting.
+
+
+Features of Python --->
+
+Simple & Easy to Learn – clean and readable syntax.
+Open Source – free to use.
+Large Library Support – NumPy, Pandas, Scikit-learn, Matplotlib, etc.
+Cross-Platform – runs on Windows, Mac, Linux.
+Object-Oriented – supports classes and objects.
+Extensible & Flexible – can integrate with C, C++, Java.
+Huge Community Support – lots of tutorials, solutions, and tools.

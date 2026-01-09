@@ -1,0 +1,12 @@
+#Write a recirsive function sum_of_digits(n) that returns the sum of all digits of a given nuumbers
+
+def sum_of_digits(n):
+    if(n==0):
+        return 0
+    
+    return n%10 + sum_of_digits(n//10)
+
+print(sum_of_digits(7532))
+
+# sum of digits of 7532 is same as:
+# 2 (last digit) + sum of digits of 7532
