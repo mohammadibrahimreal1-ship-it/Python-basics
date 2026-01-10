@@ -1,0 +1,3 @@
+Hey there, I am a pythonista and I love python
+I love writing code in python
+I work with AI and ML Applications

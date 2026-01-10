@@ -1,0 +1,3 @@
+(In write, if file doesn't exist.. it creates one). John is a coder.
+
+He lives in Australia
