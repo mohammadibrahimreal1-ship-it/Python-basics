@@ -1,0 +1,5 @@
+Ali is a Data Scientist.
+He lives in Syria.
+He can speak 5 languages.
+
+Ali loves to eat ice-cream.
